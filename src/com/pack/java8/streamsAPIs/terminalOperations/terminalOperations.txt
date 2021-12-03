@@ -1,0 +1,3 @@
+terminal op collects data for you
+they start whole stream pipeline
+eg. foreach, min, max, reduce, collect, etc
